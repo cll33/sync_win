@@ -1,2 +1,6 @@
 master create
+<<<<<<< HEAD
 bug-1 is wrork down
+=======
+dev1 is processing sth
+>>>>>>> dev1
